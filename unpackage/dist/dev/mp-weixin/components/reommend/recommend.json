@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "recommend-cate-gory": "/components/recommendCateGory/recommendCateGory"
+  }
+}
